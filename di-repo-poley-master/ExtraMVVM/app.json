@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "ExtraMVVM",
+    "slug": "extramvvm",
+    "scheme": "extramvvm",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "bundleIdentifier": "com.pedropoley.extramvvm",
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.pedropoley.extramvvm"
+    },
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

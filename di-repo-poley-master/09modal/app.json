@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "09 Modal",
+    "slug": "09modal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "modal09",
+    "web": { "bundler": "metro", "output": "static" },
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}

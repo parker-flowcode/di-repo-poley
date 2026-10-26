@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "10 Switch",
+    "slug": "10switch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "switch10",
+    "web": { "bundler": "metro", "output": "static" },
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
